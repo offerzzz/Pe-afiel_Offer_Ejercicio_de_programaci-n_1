@@ -1,5 +1,4 @@
 #include <stdio.h>
-//Programa para mostrar el incrementoo
 int main() {
     int  inicio;
     int fin;
